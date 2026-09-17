@@ -273,6 +273,8 @@ Includes:
 - One-Time vs Repeat Customers
 - Monthly Revenue Trend
 
+![Executive Overview](Images/Executive_Overview.png)
+
 ### Page 2 — Customer Behavior & Retention
 
 Includes:
@@ -285,6 +287,8 @@ Includes:
 - Customer Return Behavior
 - Recency: One-Time vs Repeat
 - Order Frequency Distribution
+
+![Customer Behavior & Retention](Images/Customer_Behavior_Retention.png)
 
 ---
 
