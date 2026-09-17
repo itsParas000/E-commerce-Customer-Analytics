@@ -58,7 +58,6 @@ The analysis uses the first-year portion of the dataset.
 - **Power BI**
 - **DAX**
 
-SQL/MySQL was considered during the workflow but was not included in the final project because the customer-level analysis could be completed directly in Python and visualized in Power BI without duplicating the work.
 
 ---
 
