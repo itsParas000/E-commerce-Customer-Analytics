@@ -327,6 +327,22 @@ Based on the analysis:
 
 ---
 
+
+# Dataset
+
+The raw dataset is not included in this repository because of its large file size.
+
+Dataset:
+UCI Online Retail II
+
+Source:
+https://archive.ics.uci.edu/dataset/502/online+retail+ii
+
+The project uses the first-year portion of the dataset.
+
+Please download the original dataset from the official UCI source and place the required file in this folder before running the notebook.
+
+---
 ## Project Workflow
 
 ```text
