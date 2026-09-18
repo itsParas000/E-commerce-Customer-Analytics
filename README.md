@@ -273,7 +273,7 @@ Includes:
 - One-Time vs Repeat Customers
 - Monthly Revenue Trend
 
-![Executive Overview](Images/Executive_Overview.png)
+![Executive_Overview](Images/Executive_Overview.png)
 
 ### Page 2 — Customer Behavior & Retention
 
